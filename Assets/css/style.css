@@ -537,3 +537,6 @@ color: black;
 .info-testimo-personal{
     margin-left: -200px;
 }
+.owl-carousel {
+    width: 100%;
+}
